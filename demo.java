@@ -4,6 +4,9 @@ Class Demo
  {
        int a=1;
        static b=3;
+       
+       x=a+b;
+       syso(x);//4
 
 
  }
