@@ -8,6 +8,8 @@ Class Demo
        x=a+b;
        syso(x);//4
 
+      //work hard
+
 
  }
 
